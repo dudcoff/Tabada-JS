@@ -1,2 +1,2 @@
-# Tabada-JS
+# Tabuada-JS
 lesson home
